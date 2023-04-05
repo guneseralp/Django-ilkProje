@@ -1,0 +1,8 @@
+.menu{
+  margin-right: 45px;
+  display: grid;
+}
+.active {
+  background-color: #049faa;
+  color: white;
+}
